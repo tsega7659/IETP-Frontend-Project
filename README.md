@@ -1,5 +1,8 @@
 # React + Vite
 
+This repository has been created to develop the front-end component of our Integrated Engineering Team project. Our goal is to build a web application that assists travelers in finding information about the departure, arrival, and stopping times of public buses.
+
+
 
 1. Nav Component (Nav.jsx)
 

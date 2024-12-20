@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 const Nav = () => {
   return (
-    <nav className="bg-blue-600 text-white p-4">
+    <nav className="bg-black text-white p-4">
       <div className="container mx-auto flex justify-between items-center">
         <h1 className="text-xl font-bold">IETP Route</h1>
         <ul className="flex space-x-4">
