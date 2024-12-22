@@ -2,6 +2,7 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import Nav from "./components/Nav";
 import Home from "./components/Home";
+import Footer from './components/Footer';
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
           element={<div className="p-8 text-center">Contact Page Coming Soon!</div>}
         />
       </Routes>
+      <Footer />
     </Router>
   );
 };
